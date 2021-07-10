@@ -18,3 +18,4 @@
 #sed -i '$a src-git kenzo https://github.com/kenzok8/openwrt-packages' feeds.conf.default
 #git clone https://github.com/garypang13/luci-app-dnsfilter.git package/luci-app-dnsfilter
 #git clone https://github.com/garypang13/luci-app-bypass.git package/luci-app-bypass
+#git clone https://github.com/small-5/luci-app-adblock-plus.git package/luci-app-adblock-plus
